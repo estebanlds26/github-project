@@ -1,5 +1,5 @@
 .flex-container{
-    background-color: #707070;
+    background-image: url(./image/fondo);
     display: flex;
     flex-direction: row;
     margin: 100px;
@@ -49,28 +49,31 @@ border-radius: 10px;
 }
 
 .info1{
-    background-color: fuchsia;
+    background-color: rgb(19, 19, 100);
     margin-top: 60px;
     border-radius: 0px 0px 10px 10px;
+    color: white;
 }
 
 .info2{
-    background-color: rgb(43, 43, 219);
+    background-color: rgb(165, 10, 10);
     margin-top: 60px;
     border-radius: 0px 0px 10px 10px;
+    color: white;
 }
 
 .info3{
-    background-color: rgb(57, 255, 57);
+    background-color: rgb(14, 78, 14);
      margin-top: 60px;
     border-radius: 0px 0px 10px 10px;
+    color: white;
 }
 .im1{
-    color: fuchsia;
+    color: rgb(19, 19, 100);
 }
 .im2{
-    color: rgb(43, 43, 219);
+    color: rgb(165, 10, 10);
 }
 .im3{
-    color:  rgb(57, 255, 57);
+    color:  rgb(14, 78, 14);
 }

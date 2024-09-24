@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(124, 124, 9);
+}
+
 .flex-container{
     background-image: url(./image/fondo);
     display: flex;
@@ -6,6 +10,15 @@
     padding: 100px;
     height: 350px;
     justify-content: center;
+    border-radius: 25px;
+}
+
+.tittle{
+    text-align: center;
+    padding-top: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 4rem;
+
 }
 
 .card{
